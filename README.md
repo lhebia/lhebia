@@ -4,7 +4,7 @@ A front-end developer with experience building applications in React, JavaScript
 
 I [blog](https://sevenrules.ca) but you can mostly find me on [Twitter](https://twitter.com/lhebia).
 
-Here are some ideas to get you started:
+A few more things about me:
 
 - 🔭 I’m currently working on ... re-building my portfolio in Gatsby and Emotion.
 - 🌱 I’m currently learning ... TypeScript and Gatsby.
