@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lawrence Hebia
 
-A front-end developer with experience building applications in React, JavaScript, JQuery, HTML5, CSS3 and TypeScript. I'm currently looking for an organization whose purpose I support and who can help me flourish as someone trying to do what they love, everyday.
+A front-end developer with experience building applications in React, JavaScript, JQuery, HTML5, CSS3 while trying to learn TypeScript. I'm currently looking for an organization whose purpose I support and who can help me flourish as someone trying to do what they love, everyday.
 
 I'm currently trying re-build my portfolio using Gatsby & Emotion to further my knowledge of React while also learning how to work with Gatsby and implementing Emotion. My first love came from writing scripts in Python but my heart drew me to front end technologies where I spend most of my time now. 
 
