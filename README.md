@@ -8,8 +8,8 @@ I [blog](https://sevenrules.ca) but you can mostly find me on [Twitter](https://
 
 A few more things about me:
 
-- 🔭 I’m currently working on ... re-building my portfolio in Gatsby and Emotion.
-- 🌱 I’m currently learning ... Redux and the MERN stack.
+- 🔭 I’m currently working on ... a full stack Burger Review app project.
+- 🌱 I’m currently learning ... the MERN stack & Redux.
 - 👯 I’m looking to collaborate on ... things that help make the world a better place.
 - 🤔 I’m looking for help with ... Redux.
 - 💬 Ask me about ... anything, I'm an open book. 😇
