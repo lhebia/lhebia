@@ -9,9 +9,9 @@ I [blog](https://sevenrules.ca) but you can mostly find me on [Twitter](https://
 A few more things about me:
 
 - 🔭 I’m currently working on ... re-building my portfolio in Gatsby and Emotion.
-- 🌱 I’m currently learning ... TypeScript and Gatsby.
-- 👯 I’m looking to collaborate on ... front-end technologies and apps for parents.
-- 🤔 I’m looking for help with ... TypeScript and Gatsby.
+- 🌱 I’m currently learning ... Redux and the MERN stack.
+- 👯 I’m looking to collaborate on ... things that help make the world a better place.
+- 🤔 I’m looking for help with ... Redux.
 - 💬 Ask me about ... anything, I'm an open book. 😇
 - 📫 How to reach me: ... [Twitter](https://twitter.com/lhebia)
 - 😄 Pronouns: ... He/Him.
