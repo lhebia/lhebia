@@ -4,7 +4,7 @@ A front-end developer with experience building applications in React, JavaScript
 
 I'm currently trying optimize my portfolio, [lawrencehebia.com](https://lawrencehebia.com) and learn Redux and the MERN stack. 
 
-I [blog](https://sevenrules.ca) but you can mostly find me on [Twitter](https://twitter.com/lhebia).
+I [blog](https://lawrencehebia.com/blog) but you can mostly find me on [Twitter](https://twitter.com/lhebia).
 
 A few more things about me:
 
