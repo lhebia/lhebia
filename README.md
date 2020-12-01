@@ -8,7 +8,7 @@ I [blog](https://lawrencehebia.com/blog) but you can mostly find me on [Twitter]
 
 A few more things about me:
 
-- 🔭 I’m currently working on ... a full stack Burger Review app project.
+- 🔭 I’m currently working on ... a full stack Burger Review app.
 - 🌱 I’m currently learning ... the MERN stack & Redux.
 - 👯 I’m looking to collaborate on ... things that help make the world a better place.
 - 🤔 I’m looking for help with ... Redux.
