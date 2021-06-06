@@ -2,7 +2,7 @@
 
 A software developer with experience building applications in React, JavaScript & Ruby on Rails. With 5+ years experience in Technical Support, I'm looking to continue to grow and do what I love, everyday.
 
-I'm always working and optimizing my portfolio, [lawrencehebia.com](https://lawrencehebia.com) and learn TypeScript, Redux and the MERN stack. 
+I'm always working and optimizing my portfolio, [lawrencehebia.com](https://lawrencehebia.com).
 
 I [blog](https://lawrencehebia.com/blog) but you can mostly find me on [Twitter](https://twitter.com/lhebia).
 
