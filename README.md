@@ -12,4 +12,4 @@ A few more things about me:
 - 💬 Ask me about ... anything, I'm an open book. 😇
 - 📫 How to reach me: ... [Twitter](https://twitter.com/lhebia)
 - 😄 Pronouns: ... He/Him.
-- ⚡ Fun fact: ... I love burgers. 
+- ⚡ Fun fact: ... I love 🍔's. 
