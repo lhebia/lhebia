@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lawrence Hebia
 
-A software developer with experience building applications in React, JavaScript & Ruby on Rails. With 5+ years experience in Technical Support, I'm looking to continue to grow and do what I love, everyday.
+A software developer with experience building applications in React, TypeScript & Ruby on Rails. With 5+ years experience in Technical Support, I'm looking to continue to grow and do what I love, everyday.
 
 I'm always working and optimizing my portfolio, [lawrencehebia.com](https://lawrencehebia.com).
 
