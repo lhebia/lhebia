@@ -8,7 +8,6 @@ I [blog](https://lawrencehebia.com/blog) but you can mostly find me on [Twitter]
 
 A few more things about me:
 
-- 🌱 I’m currently learning ... Ruby on Rails.
 - 💬 Ask me about ... anything, I'm an open book. 😇
 - 📫 How to reach me: ... [Twitter](https://twitter.com/lhebia)
 - 😄 Pronouns: ... He/Him.
